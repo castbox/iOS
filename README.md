@@ -12,6 +12,8 @@
 
 [iOS代码规范](https://github.com/raywenderlich/swift-style-guide)
 
+[iOS 项目接入 depaudit 命令同步第三方库信息](https://docs.google.com/document/d/1_OOnifiHowdxq5_U1zPQSNnGfSAVIH0pxW1GzATkKIw/edit)
+
 ### 模板化
 
 [iOS 模板](https://docs.google.com/document/d/17716pdLqOmKz2DrJBN3NEAEXHAxFKWpDm-WWpmBBESs/edit#)
